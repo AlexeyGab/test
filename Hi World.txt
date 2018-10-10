@@ -1,8 +1,8 @@
-Hello git!
-tak tak
+Hello git!;
+tak tak;
 
-eto ne tak
-hello again
+eto ne tak;
+hello again;
 
-hello dear
-hello friend
+hello dear;
+hello friend;
